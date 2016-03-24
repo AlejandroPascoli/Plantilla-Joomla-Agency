@@ -1,6 +1,6 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/agency/)
+# [Start Bootstrap](http://startbootstrap.com/) - [Agency](http://startbootstrap.com/template-overviews/agency/)
 
-[Freelancer](http://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, and a working PHP contact form.
+[Agency](http://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, and a working PHP contact form.
 
 ## Getting Started
 
@@ -20,7 +20,7 @@ Joomla Agency for Joomla is based on the [Bootstrap](http://getbootstrap.com/) f
 
 ## Copyright and License
 
-Copyright 2015 Alejandro Pascoli. Code released under the [Apache 2.0](https://github.com/AlejandroPascoli/Plantilla-Joomla-Agency/blob/master/LICENSE) license.
+Copyright 2016 Alejandro Pascoli. Code released under the [Apache 2.0](https://github.com/AlejandroPascoli/Plantilla-Joomla-Agency/blob/master/LICENSE) license.
 
 <h4>Atención: esta versión es (beta)</h4>
 <p>Especial Agradecimiento a:</p>
