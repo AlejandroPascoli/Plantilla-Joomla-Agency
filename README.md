@@ -12,7 +12,7 @@ To use this theme, choose one of the following options to get started:
 
 Have a bug or an issue with this theme? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-agency/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/agency/).
 
-## Creator
+## Creator for Joomla
 
 Joomla Agency for Joomla was created by and is maintained by **Alejandro Pascoli**, owner at [Pascoli Alejandro](http://www.zonasitio.com/).
 
